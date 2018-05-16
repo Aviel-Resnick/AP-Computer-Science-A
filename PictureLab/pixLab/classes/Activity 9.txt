@@ -1,0 +1,7 @@
+Aviel Resnick, Activity 9
+
+Set a null value for the pixels to compare
+Set a null color for the pixels to compare
+Create a two-dimensional array of the instance of the pixel array
+Compare the top --> bottom pixels | If the color distance is greater than the specified value, set the color to black, else white
+Compare the left --> right pixels | If the color distance is greater than the specified value, set the color to black, else white
